@@ -1,0 +1,13 @@
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\bin\Debug\ENSC 21 - Creative Output.exe.config
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\bin\Debug\ENSC 21 - Creative Output.exe
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\bin\Debug\ENSC 21 - Creative Output.pdb
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\bin\Debug\ENSC 21 - Creative Output.xml
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.vbproj.AssemblyReference.cache
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC_21___Creative_Output.Form1.resources
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC_21___Creative_Output.Resources.resources
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.vbproj.GenerateResource.cache
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.vbproj.CoreCompileInputs.cache
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.exe
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.xml
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.pdb
+C:\Users\Josh Natividad\Downloads\Exercises\ENSC 21 - Creative Output\ENSC 21 - Creative Output\obj\Debug\ENSC 21 - Creative Output.vbproj.ResolveComReference.cache
